@@ -1,0 +1,117 @@
+*  {
+    box-sizing: border-box;
+}
+section {
+    margin: 0;
+}
+
+body{
+    margin: 0;
+    background-color: white;
+    width: 100%;
+    height: 100vh;
+
+}
+header {
+    margin: 0;
+    background: rgb(110, 109, 109);
+    width: 100%;
+    height: 8vh;
+    padding-left: 40px;
+    padding-right: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.Title {
+    color: white;
+}
+
+.tabs {
+    margin: 0;
+    color: white;
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h2 {
+    margin: 0;
+    color: rgb(168, 168, 21);
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 30vh;
+    font-size: 50px;
+}
+
+.green-smooth-boxes {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+p {
+    border-radius: 35px;
+    background: #71e654;
+    padding: 20px;
+    width: 250px;
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.dreamsicle-boxes {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+div {
+    background: rgb(211, 162, 56);
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+
+
+.elephant-time {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.last-part {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+
+h5 {
+    height: 250px;
+    width: 250px;
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.that-bottom-part {
+    background: rgb(54, 38, 112);
+    width: 100%;
+    height: 12vh;
+    margin: 0 auto;
+}
